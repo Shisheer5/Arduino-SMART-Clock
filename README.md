@@ -1,0 +1,2 @@
+# Arduino-SMART-Clock
+This was a Software Engineering project based on the Arduino Uno, for the SE101 course, during Fall 2017. I, along with two other team members, developed the 'Arduino SMART Clock'. It primarily used the DS3231 RTC module, which told time and date with high accuracy and also measured room temperature with great precision. Additionally, the clock was also programmed to set alarms and reminders for the user. The morning alarms included a "SIMON" game, which ensured that the alarm would not turn off until the user was fully awake and had won the simon game.
